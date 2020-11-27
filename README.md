@@ -19,6 +19,10 @@ here is the link for [github link](https://github.com/nabin-g/imageStoreApp)
 It is app for storing information of scrap produced from the industry. It is manual process so employee who is going to enter the information based on 8 digits employee id. Using jdbc library for database connection to MSSQL and the information of scrap part number, employee number, quantity, reason code has been submitted in database. 
 [Github link]()
 
+# project 5: Visiting Places Android App in Kotlin:
+It is the android app where camera funtionality along with map is included. Here the user can also select date. The title, description, date, address and image is uploaded in SQLite database. THe information is shown using recyclerview. 
+[Github link](https://github.com/nabin-g/visitingPlacesInKotlin)
+
 # Project 4: Laravel PHP project:
 Just like newspaper site it is one of the site made using PHP laravel framework:
 [Link:](https://worldpedia.info/)
