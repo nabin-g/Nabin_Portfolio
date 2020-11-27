@@ -1,7 +1,7 @@
 # Nabin_Portfolio
 Android Developer
 
-![](/nabin_g.JPG)
+![](/nabin_g.jpg)
 
 # Project 1: UDVMA android Project:
 Description: To have an interface for the veterans and military personnel with UDVMA administration. The purpose of the app is to complement UDVMA’s effort to connect and convey various benefits and objectives of UDVMA in its outreach program. The end user (Military / veteran), caregivers, family of veterans can register themselves in the App by downloading from the Android and iOS stores.
@@ -30,3 +30,9 @@ Just like newspaper site it is one of the site made using PHP laravel framework:
 
  # Drillpress and motor kit project: 
   The image data along with vibration, temperature data is sent to the backend platform through MQTT broker. Here Raspberry Pi detect the object when machine runs and send near   miss image to the Cat-M1 module through the UART connection. Similarly, vibration and temperature sensors are connected to the Cat-M1 module through the groove connectors and   data along with image data has been sent to backend using cellular connection. The Sprint sim card is the media for cellular connection. The main goal of this project is to     replace the Wi-Fi connection through cellular connection.[Github link](https://github.com/nabin-g/drillpress)
+  
+  
+  # Contact Information
+    Email: nabin.g14@gmail.com
+    Phone: 616 828 3266
+    Address: Richmond, CA
