@@ -1,4 +1,4 @@
-# Nabin_Portfolio
+# Nabin Ghimire
 Android Developer
 
 ![](/nabin.jpg)
@@ -23,7 +23,7 @@ It is app for storing information of scrap produced from the industry. It is man
 It is the android app where camera funtionality along with map is included. Here the user can also select date. The title, description, date, address and image is uploaded in SQLite database. THe information is shown using recyclerview. 
 [Github link](https://github.com/nabin-g/visitingPlacesInKotlin)
 
-# Project 4: Laravel PHP project:
+# Project 6: Laravel PHP project:
 Just like newspaper site it is one of the site made using PHP laravel framework:
 [Link:](https://worldpedia.info/)
 
