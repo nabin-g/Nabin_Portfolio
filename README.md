@@ -12,7 +12,7 @@ Description: Collaborate daily with the offshore implementation team. Monitor th
 [App Store Link:](https://play.google.com/store/apps/details?id=net.sharewire.parkmobilev2)
 
 # Project 3: Image Store android app project:
-Using Android java login system using Firebase authentication person can take picture from camera or upload their galery picture in a app. So this app is basically providing gallery like function. Firebase real database, storage, authentication has been used.
+Using Android java login system using Firebase authentication person can take picture from camera or upload their gallery picture in a app. So this app is basically providing gallery like function. Firebase real database, storage, authentication has been used.
 here is the link for [github link](https://github.com/nabin-g/imageStoreApp)
 
 # project 4: Lineminder android app
@@ -34,9 +34,8 @@ Just like newspaper site it is one of the site made using PHP laravel framework:
 
  # Drillpress and motor kit project: 
   The image data along with vibration, temperature data is sent to the backend platform through MQTT broker. Here Raspberry Pi detect the object when machine runs and send near   miss image to the Cat-M1 module through the UART connection. Similarly, vibration and temperature sensors are connected to the Cat-M1 module through the groove connectors and   data along with image data has been sent to backend using cellular connection. The Sprint sim card is the media for cellular connection. The main goal of this project is to     replace the Wi-Fi connection through cellular connection.[Github link](https://github.com/nabin-g/drillpress)
-  
-  
-  # Contact Information
-    Email: nabin.g14@gmail.com
-    Phone: 616 828 3266
-    Address: Richmond, CA
+    
+# Contact Information
+Email: nabin.g14@gmail.com
+Phone: 616 828 3266
+Address: Richmond, CA
