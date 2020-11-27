@@ -24,9 +24,11 @@ Just like newspaper site it is one of the site made using PHP laravel framework:
 [Link:](https://worldpedia.info/)
 
 # Other project:
-1. Object detection using python: Using python programming object is detected based on ultrasonic sensor and detected object is recorded by camera connected in the raspberry pi. The recorded video is uploaded in AWS S3 bucket. 
-[Github link](https://github.com/nabin-g/objectdetection)
+  # Object detection using python:
+   Using python programming object is detected based on ultrasonic sensor and detected object is recorded by camera connected in the raspberry pi. The recorded video is uploaded    in AWS S3 bucket. 
+   [Github link](https://github.com/nabin-g/objectdetection)
 
-2. Drillpress and motor kit project: The image data along with vibration, temperature data is sent to the backend platform through MQTT broker. Here Raspberry Pi detect the object when machine runs and send near miss image to the Cat-M1 module through the UART connection. Similarly, vibration and temperature sensors are connected to the Cat-M1 module through the groove connectors and data along with image data has been sent to backend using cellular connection. The Sprint sim card is the media for cellular connection. The main goal of this project is to replace the Wi-Fi connection through cellular connection.[Github link](https://github.com/nabin-g/drillpress)
+ # Drillpress and motor kit project: 
+  The image data along with vibration, temperature data is sent to the backend platform through MQTT broker. Here Raspberry Pi detect the object when machine runs and send near   miss image to the Cat-M1 module through the UART connection. Similarly, vibration and temperature sensors are connected to the Cat-M1 module through the groove connectors and   data along with image data has been sent to backend using cellular connection. The Sprint sim card is the media for cellular connection. The main goal of this project is to     replace the Wi-Fi connection through cellular connection.[Github link](https://github.com/nabin-g/drillpress)
 
 3. 
